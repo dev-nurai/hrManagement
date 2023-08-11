@@ -1,0 +1,17 @@
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Infrastructure.deps.json
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Infrastructure.dll
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Infrastructure.pdb
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Application.dll
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Domain.dll
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Application.pdb
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\bin\Debug\net7.0\HR.LeaveManagement.Domain.pdb
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.csproj.CopyComplete
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.dll
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\refint\HR.LeaveManagement.Infrastructure.dll
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\HR.LeaveManagement.Infrastructure.pdb
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Infrastructure\obj\Debug\net7.0\ref\HR.LeaveManagement.Infrastructure.dll

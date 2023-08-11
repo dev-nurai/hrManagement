@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "NkgBP9CDUArjY880CSxChm68D/qsWzflrn5dFWqJdCvLrB0ijKbK+BxHdUvClOV8NKnPuIN3kTkBc7a7NDz14A==",
+  "success": true,
+  "projectFilePath": "D:\\Nurai Training\\Onion Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
+    "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.6.0\\fluentvalidation.dependencyinjectionextensions.11.6.0.nupkg.sha512",
+    "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

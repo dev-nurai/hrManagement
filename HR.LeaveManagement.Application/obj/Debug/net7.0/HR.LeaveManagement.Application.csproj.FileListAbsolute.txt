@@ -1,0 +1,15 @@
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Application.deps.json
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Application.dll
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Application.pdb
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Domain.dll
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\bin\Debug\net7.0\HR.LeaveManagement.Domain.pdb
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.AssemblyInfo.cs
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.csproj.CopyComplete
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.dll
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\refint\HR.LeaveManagement.Application.dll
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\HR.LeaveManagement.Application.pdb
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Application\obj\Debug\net7.0\ref\HR.LeaveManagement.Application.dll

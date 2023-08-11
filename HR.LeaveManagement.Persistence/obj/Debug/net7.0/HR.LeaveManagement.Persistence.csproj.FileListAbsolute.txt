@@ -1,0 +1,17 @@
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Persistence.deps.json
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Persistence.dll
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Persistence.pdb
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Application.dll
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Domain.dll
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Application.pdb
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\bin\Debug\net7.0\HR.LeaveManagement.Domain.pdb
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.csproj.AssemblyReference.cache
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.AssemblyInfoInputs.cache
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.AssemblyInfo.cs
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.csproj.CoreCompileInputs.cache
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.csproj.CopyComplete
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.dll
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\refint\HR.LeaveManagement.Persistence.dll
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\HR.LeaveManagement.Persistence.pdb
+D:\Nurai Training\Onion Architecture\HR.LeaveManagement.Clean\HR.LeaveManagement.Persistence\obj\Debug\net7.0\ref\HR.LeaveManagement.Persistence.dll
