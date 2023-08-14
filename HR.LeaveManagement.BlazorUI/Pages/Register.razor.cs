@@ -30,7 +30,10 @@ namespace HR.LeaveManagement.BlazorUI.Pages
             {
                 NavigationManager.NavigateTo("/");
             }
-            Message = "Something went wrong, please try again.";
+            else
+            {
+                Message = "Something went wrong, please try again.";
+            }
         }
     }
 }

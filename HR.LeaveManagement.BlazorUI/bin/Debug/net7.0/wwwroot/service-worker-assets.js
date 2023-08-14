@@ -89,26 +89,6 @@
       "url": "_framework\/Blazored.LocalStorage.dll"
     },
     {
-      "hash": "sha256-STlTcpkLxyoAViDlfcqPpKGOZAyrygkuCNy\/2U55ulk=",
-      "url": "_framework\/FluentValidation.dll"
-    },
-    {
-      "hash": "sha256-rTcwY\/qZrJy+J+ZdQ1jGUb1bfINh73cyDHE6y58H9mw=",
-      "url": "_framework\/FluentValidation.DependencyInjectionExtensions.dll"
-    },
-    {
-      "hash": "sha256-COQNT12uT4ANEpVJ2Drpt966unuTblcp8OBBPILL1QI=",
-      "url": "_framework\/MediatR.dll"
-    },
-    {
-      "hash": "sha256-jbWZnge7bolAMw8ppWQLC7bKPAY6DjkJn2ezN9OXafU=",
-      "url": "_framework\/MediatR.Contracts.dll"
-    },
-    {
-      "hash": "sha256-r4BKDN80Z8Y0EWgqf5bV01LA7ELRVybnQcMzkpdOSys=",
-      "url": "_framework\/MediatR.Extensions.Microsoft.DependencyInjection.dll"
-    },
-    {
       "hash": "sha256-P7\/HRwCqdk3q1MD7UtlAXMN\/E8gZRdzme6ESGZsXHNk=",
       "url": "_framework\/Microsoft.AspNetCore.Authorization.dll"
     },
@@ -933,27 +913,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-hjzrAInZGa3jxnqcRt2eNd5xgIoSlTf0YWT5hpxTPNM=",
-      "url": "_framework\/HR.LeaveManagement.Application.dll"
-    },
-    {
-      "hash": "sha256-T8GTuxNV8PTEOEOVjqX6dzBhk0telD8sLKXRAusjgd8=",
-      "url": "_framework\/HR.LeaveManagement.Domain.dll"
-    },
-    {
-      "hash": "sha256-dOqSQ4oZyJ3DY0B106YqOo0l69G7Q49d\/q\/gvzJy2us=",
-      "url": "_framework\/HR.LeaveManagement.Application.pdb"
-    },
-    {
-      "hash": "sha256-fVLVCRNZhvtluYqCkBVpINNkG48C8lzIcaMjiwGChgQ=",
-      "url": "_framework\/HR.LeaveManagement.Domain.pdb"
-    },
-    {
-      "hash": "sha256-j6nJHjIkLEP3dz6AmZfNOfFmwbt9PGA0JzQvSj5AnxQ=",
+      "hash": "sha256-7O+InikLJkDCbUpjp9HL98twOuUKm9ERJelmPIvuUYE=",
       "url": "_framework\/HR.LeaveManagement.BlazorUI.dll"
     },
     {
-      "hash": "sha256-w0YYnCzoLQUTmFpftR56Tn1ZtqhTovQlevpgKrAEOTo=",
+      "hash": "sha256-KHcm8BZNXAFooG7murvHZuHEWGGkiPhC06cQMOu6RDE=",
       "url": "_framework\/HR.LeaveManagement.BlazorUI.pdb"
     },
     {
@@ -961,7 +925,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-nkLW33pJeIwueVF4Ru8GUPAaTfhreC8lk3LbMnhWcJE=",
+      "hash": "sha256-uNNLUIyl4hY\/YYYVl0Ds0qcCAkoeN0SpBBleQazSjYk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -969,5 +933,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "lUzansWN"
+  "version": "XVbpPYNV"
 };

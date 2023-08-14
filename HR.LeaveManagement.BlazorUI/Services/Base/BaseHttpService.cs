@@ -6,7 +6,6 @@ namespace HR.LeaveManagement.BlazorUI.Services.Base
     public class BaseHttpService
     {
         protected IClient _client;
-        //private IClient client;
         protected ILocalStorageService _localStorageService;
         public BaseHttpService(IClient client, ILocalStorageService localStorageService)
         {

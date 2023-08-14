@@ -1,0 +1,49 @@
+﻿@page "/employee/"
+
+<h3>List of Employees</h3>
+
+<div class="m-2 d-flex justify-content-end">
+    <button @onclick="AddEmployee" class="btn btn-success">Add Employee</button>
+</div>
+
+@if (employeeVMs == null)
+{
+    <p>Loading Data...</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Id
+                </th>
+                <th>
+                    Name
+                </th>
+                <th>
+                    Email
+                </th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in employeeVMs)
+            {
+                <tr>
+                    <td>@employee.Id </td>
+                    <td>@employee.Firstname @employee.Lastname </td>
+                    <td>@employee.Email </td>
+                    <td>
+                        <AuthorizeView Roles="Administrator">
+                            <button @*@onclick="@(() => EditEmployee(employee.Id))"*@ class="btn btn-warning">Edit</button>
+                            <button @*@onclick="@(() => DeleteEmployee(employee.Id))" *@ class="btn btn-danger">Delete</button>
+                        </AuthorizeView>
+                        <button @onclick="@(() => DetailsEmployee(employee.Id))"  class="btn btn-info">Details</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}

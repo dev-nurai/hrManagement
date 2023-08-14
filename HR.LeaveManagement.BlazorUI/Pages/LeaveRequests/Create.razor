@@ -6,14 +6,29 @@
     <DataAnnotationsValidator/>
     <ValidationSummary/>
     <div class="form-group">
-        <label for="startDate">Start Date</label>
-        <InputDate class="form-control" id="startDate" @bind-Value="LeaveRequestVM.StartDate" />
-        <ValidationMessage For="@(() => LeaveRequestVM.StartDate)" />
+        <label for="employees">Employee</label>
+        <InputSelect class="form-control" id="employees" @bind-Value="LeaveRequestVM.Employee.Id">
+            <option>Select Employee</option>
+            @foreach (var employee in employeeVMs)
+            {
+                <option value="@employee.Id">@employee.Firstname</option>
+            }
+        </InputSelect>
+        <ValidationMessage For="@(() => LeaveRequestVM.Employee.Id)" />
     </div>
     <div class="form-group">
-        <label for="endDate">End Date</label>
-        <InputDate class="form-control" id="endDate" @bind-Value="LeaveRequestVM.EndDate" />
-        <ValidationMessage For="@(() => LeaveRequestVM.EndDate)" />
+        <div class="row">
+            <div class="col-md-6">
+                <label for="startDate">Start Date</label>
+                <InputDate class="form-control" id="startDate" @bind-Value="LeaveRequestVM.StartDate" />
+                <ValidationMessage For="@(() => LeaveRequestVM.StartDate)" />
+            </div>
+            <div class="col-md-6">
+                <label for="endDate">End Date</label>
+                <InputDate class="form-control" id="endDate" @bind-Value="LeaveRequestVM.EndDate" />
+                <ValidationMessage For="@(() => LeaveRequestVM.EndDate)" />
+            </div>
+        </div>
     </div>
     <div class="form-group">
         <label for="leaveType">Leave Type</label>
@@ -23,7 +38,6 @@
             {
                 <option value="@leaveType.Id">@leaveType.Name</option>
             }
-            
         </InputSelect>
         <ValidationMessage For="@(() => LeaveRequestVM.LeaveTypeId)" />
     </div>

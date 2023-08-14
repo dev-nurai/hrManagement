@@ -82,7 +82,6 @@ namespace HR.LeaveManagement.Identity.Services
                 {
                     str.AppendFormat("* {0}\n", error.Description);
                 }
-
                 throw new BadRequestException($"{str}");
             }
 

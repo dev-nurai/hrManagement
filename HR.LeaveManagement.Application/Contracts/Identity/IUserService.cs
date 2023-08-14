@@ -1,4 +1,5 @@
-﻿using HR.LeaveManagement.Application.Models.Identity;
+﻿using HR.LeaveManagement.Application.Models.Dtos;
+using HR.LeaveManagement.Application.Models.Identity;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,9 @@ namespace HR.LeaveManagement.Application.Contracts.Identity
     {
         List<Employee> GetEmployees();
         Task<Employee> GetEmployee(string userId);
+
+        Task AddEmployee(EmployeeDto employeeDtos);
+
         public string UserId { get; }
     }
 }

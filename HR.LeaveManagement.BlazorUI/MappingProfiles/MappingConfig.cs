@@ -4,8 +4,8 @@ using HR.LeaveManagement.BlazorUI.Models;
 using HR.LeaveManagement.BlazorUI.Models.LeaveRequests;
 using HR.LeaveManagement.BlazorUI.Models.LeaveTypes;
 using HR.LeaveManagement.BlazorUI.Services.Base;
-using HR.LeaveManagement.Application.Models.Identity;
-using HR.LeaveManagement.Application.Features.LeaveAllocation.Queries.GetLeaveAllocationDetails;
+//using HR.LeaveManagement.Application.Models.Identity;
+//using HR.LeaveManagement.Application.Features.LeaveAllocation.Queries.GetLeaveAllocationDetails;
 
 namespace HR.LeaveManagement.BlazorUI.MappingProfiles
 {
@@ -35,12 +35,13 @@ namespace HR.LeaveManagement.BlazorUI.MappingProfiles
 
             //Leave Allocation
             CreateMap<LeaveAllocationDto, LeaveAllocationVM>().ReverseMap();
-            CreateMap<LeaveAllocationDetailsDto, LeaveAllocationVM>().ReverseMap();
+            //CreateMap<LeaveAllocationDetailsDto, LeaveAllocationVM>().ReverseMap();
             CreateMap<CreateLeaveAllocationCommand, LeaveAllocationVM>().ReverseMap();
             CreateMap<UpdateLeaveAllocationCommand, LeaveAllocationVM>().ReverseMap();
 
             //Employee
-            CreateMap<EmployeeVM, Services.Base.Employee>().ReverseMap();
+            CreateMap<EmployeeVM, Employee>().ReverseMap();
+            //CreateMap<EmployeeVM, Application.Models.Identity.Employee>().ReverseMap();
 
         }
     }

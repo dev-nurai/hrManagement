@@ -24,6 +24,7 @@ namespace HR.LeaveManagement.Api.Controllers
         }
 
         // GET: api/<LeaveTypesController>
+
         [HttpGet]
         public async Task<ActionResult<List<LeaveTypeDto>>> Get()
         {

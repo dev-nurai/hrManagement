@@ -1,17 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "UxJTMiHslapC85agL8oXO+wqeIbeHegrtcRSMrEs18//qurTIsiKDpvSRevgdtF8eHO85yuqezNHw5RHFNFpdQ==",
+  "dgSpecHash": "amlsKbxIkLoycsXuiP8jgvTv3yi4oY7yVvS5FSGieavTYj/3wVPeoYb958+eeAm09X+lZfwno4bnOuB0ciek5Q==",
   "success": true,
   "projectFilePath": "D:\\Nurai Training\\Onion Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.BlazorUI\\HR.LeaveManagement.BlazorUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\blazored.localstorage\\4.3.0\\blazored.localstorage.4.3.0.nupkg.sha512",
-    "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\fluentvalidation\\11.6.0\\fluentvalidation.11.6.0.nupkg.sha512",
-    "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.6.0\\fluentvalidation.dependencyinjectionextensions.11.6.0.nupkg.sha512",
-    "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
-    "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
-    "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.9\\microsoft.aspnetcore.authorization.7.0.9.nupkg.sha512",
     "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.9\\microsoft.aspnetcore.components.7.0.9.nupkg.sha512",
     "C:\\Users\\BINATE-PC-08\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.9\\microsoft.aspnetcore.components.analyzers.7.0.9.nupkg.sha512",

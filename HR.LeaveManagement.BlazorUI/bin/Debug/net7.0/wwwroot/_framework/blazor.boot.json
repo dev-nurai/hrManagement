@@ -10,11 +10,6 @@
       "AutoMapper.dll": "sha256-IPLECjhzAo5JapVuuAB\/ZT5OGwiSRZEKxtY7EMNCH38=",
       "AutoMapper.Extensions.Microsoft.DependencyInjection.dll": "sha256-RFmP6C+\/wYl1ISrVBekC+K2zrBwqPDUwvi8dVw+tiUY=",
       "Blazored.LocalStorage.dll": "sha256-eXVgTw72kEn74FZgDQbLtvAmXbiZDSj5gzUnxVmwowQ=",
-      "FluentValidation.dll": "sha256-STlTcpkLxyoAViDlfcqPpKGOZAyrygkuCNy\/2U55ulk=",
-      "FluentValidation.DependencyInjectionExtensions.dll": "sha256-rTcwY\/qZrJy+J+ZdQ1jGUb1bfINh73cyDHE6y58H9mw=",
-      "MediatR.dll": "sha256-COQNT12uT4ANEpVJ2Drpt966unuTblcp8OBBPILL1QI=",
-      "MediatR.Contracts.dll": "sha256-jbWZnge7bolAMw8ppWQLC7bKPAY6DjkJn2ezN9OXafU=",
-      "MediatR.Extensions.Microsoft.DependencyInjection.dll": "sha256-r4BKDN80Z8Y0EWgqf5bV01LA7ELRVybnQcMzkpdOSys=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-P7\/HRwCqdk3q1MD7UtlAXMN\/E8gZRdzme6ESGZsXHNk=",
       "Microsoft.AspNetCore.Components.dll": "sha256-72wt1Dncw5Whm9zUb3wanQSQBmY\/Ugu9fHEvX\/FtZ8s=",
       "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-aowoGZjwyX+5YOs+flLOXbtobSU\/lY5NsnEAKeJm\/c8=",
@@ -214,17 +209,13 @@
       "mscorlib.dll": "sha256-3H8zsATEgIcRSRoZhWYtgfKT5VniJvhcYxLruf8koAY=",
       "netstandard.dll": "sha256-bbx+pnJNmXZyPqAgESJnWLJsbfuAl0UflLCdl9slPYE=",
       "System.Private.CoreLib.dll": "sha256-pUYF+nr8SzfBMCLc3FM2i\/YivXJlzztdLin+aUsoqP0=",
-      "HR.LeaveManagement.Application.dll": "sha256-hjzrAInZGa3jxnqcRt2eNd5xgIoSlTf0YWT5hpxTPNM=",
-      "HR.LeaveManagement.Domain.dll": "sha256-\/RI3KC+YgXQrGUkNilV+7lIkQvtVnp2mmr5vD0ooSOM=",
-      "HR.LeaveManagement.BlazorUI.dll": "sha256-j6nJHjIkLEP3dz6AmZfNOfFmwbt9PGA0JzQvSj5AnxQ="
+      "HR.LeaveManagement.BlazorUI.dll": "sha256-Mb8TevPjidxOc5UFvwHO9FzczmlgNGUsT80XHZDtHxI="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "HR.LeaveManagement.Application.pdb": "sha256-dOqSQ4oZyJ3DY0B106YqOo0l69G7Q49d\/q\/gvzJy2us=",
-      "HR.LeaveManagement.Domain.pdb": "sha256-Xb+yLZR0pcjuMnhliyMn6DhMqYYQ3jQXJx7ch8jf9jU=",
-      "HR.LeaveManagement.BlazorUI.pdb": "sha256-w0YYnCzoLQUTmFpftR56Tn1ZtqhTovQlevpgKrAEOTo="
+      "HR.LeaveManagement.BlazorUI.pdb": "sha256-GorgbFSOzxb8xGO04PLPDXhI7dGkX9BqCywqeivRJUs="
     },
     "runtime": {
       "dotnet.7.0.4.dqx9yutxqa.js": "sha256-3l+4ZYRWpGMbBjNqeIqO9T\/65euaOzIvRlVX2SySvFQ=",

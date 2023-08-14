@@ -19,5 +19,6 @@ namespace HR.LeaveManagement.BlazorUI.Pages.LeaveRequests
         {
             NavigationManager.NavigateTo($"/leaverequests/details/{id}");
         }
+
     }
 }

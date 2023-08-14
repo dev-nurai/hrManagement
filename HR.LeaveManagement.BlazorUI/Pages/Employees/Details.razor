@@ -1,0 +1,22 @@
+﻿@page "/employee/details/{id}"
+
+<div class="card">
+    <div class="card-header">
+        <h3>Employee Details</h3>
+    </div>
+    <div class="card-body">
+
+        <div class="row">
+            <div class="col-md-4">
+                <p> <b>Employee Id:</b> @EmployeeModel.Id</p>
+            </div>
+            <div class="col-md-4">
+                <p> <b>Employee Name:</b> @EmployeeModel.Firstname @EmployeeModel.Lastname</p>
+            </div>
+            <div class="col-md-4">
+                <p> <b>Employee Email:</b> @EmployeeModel.Email</p>
+            </div>
+        </div>
+    </div>
+</div>
+<BackToList Target="employee/" />
